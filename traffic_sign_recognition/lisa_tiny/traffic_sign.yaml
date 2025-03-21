@@ -1,0 +1,6 @@
+
+    train: /content/drive/My Drive/traffic_sign_recognition/lisa_tiny/images/train
+    val: /content/drive/My Drive/traffic_sign_recognition/lisa_tiny/images/val
+    nc: 9  # Number of classes
+    names: ['stop', 'yield', 'yieldAhead', 'merge', 'signalAhead', 'pedestrianCrossing', 'keepRight', 'speedLimit35', 'speedLimit25']
+    
