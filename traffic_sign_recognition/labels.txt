@@ -1,0 +1,9 @@
+stop
+yield
+yieldAhead
+merge
+signalAhead
+pedestrianCrossing
+keepRight
+speedLimit35
+speedLimit25
